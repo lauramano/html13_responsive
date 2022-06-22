@@ -4,6 +4,7 @@
 body {
   margin: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #ededed;
 }
 a {
   text-decoration: none;
@@ -18,7 +19,7 @@ h5,
 h6 {
   margin-top: 0;
 }
-.conteiner {
+.container {
   max-width: 900px;
   margin: 0 auto;
   padding: 0 20px;
